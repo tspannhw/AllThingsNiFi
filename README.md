@@ -822,7 +822,13 @@ https://github.com/gm-ram/nifirssbundle
 https://github.com/mdvonavi/nifi-db2-call-processor
 https://github.com/firstvalery/wal2json-postgres-9.6-nifi-processor
 https://github.com/DevWorxCo/nifi-starter
-
+https://github.com/simonbosman/nifi-microsoft-graph-bundle
+https://github.com/chingandy/nifi-custom-processors
+https://github.com/paulgibeault/SnowflakeNiFiProcessors
+https://github.com/streamr-dev/streamr-nifi
+https://github.com/slavchegg/nifiontoImportbundle
+https://github.com/bongye/nifi-bitcoin
+https://github.com/pm-hwks/nifi-generatejson-processor
 
 
 
