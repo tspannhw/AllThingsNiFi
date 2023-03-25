@@ -806,6 +806,26 @@ Configuration: nifi.provenance.repository.max.storage.time
 
 * https://www.youtube.com/watch?v=RHFkCtbe3kc
 
+# Up-to-date Processors
+
+* https://github.com/geomesa/geomesa-nifi
+* https://github.com/easy-global-market/nifi-ngsild-postgresql
+* https://github.com/CogStack/CogStack-NiFi
+* https://github.com/EndzeitBegins/nifi-flow-over-tcp
+* https://github.com/david-streamlio/pulsar-nifi-bundle
+* https://github.com/Digital-Loop/nifi-gcp-oauth2-access-token
+* https://github.com/rossonet/ar4k-beacon
+https://github.com/TheOpenCloudEngine/nifi-kudu-processor
+https://github.com/influxdata/nifi-influxdb-bundle
+https://github.com/mcraj017/rtftopdfconverter
+https://github.com/gm-ram/nifirssbundle
+https://github.com/mdvonavi/nifi-db2-call-processor
+https://github.com/firstvalery/wal2json-postgres-9.6-nifi-processor
+https://github.com/DevWorxCo/nifi-starter
+
+
+
+
 # Misc
 
 * https://www.cloudera.com/content/dam/www/marketing/resources/solution-briefs/data-in-motion-philosophy.pdf.landing.html
