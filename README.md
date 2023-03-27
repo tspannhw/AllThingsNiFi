@@ -18,10 +18,19 @@ https://www.youtube.com/@nifinotes5127
 * https://datainmotion.dev/
 * http://dev.to/tspannhw
 
-# Updates
+## Updates
 
-* Apache NiFi 1.19.1 is out
-https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.19.1
+#Apache NiFi 1.20.0
+https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.20.0
+
+### Best new articles
+https://medium.com/cloudera-inc/building-an-effective-nifi-flow-routetext-5068a3b4efb3
+https://medium.com/@nifi.notes/building-an-effective-nifi-flow-replacetext-60a6016d378c
+https://medium.com/cloudera-inc/building-an-effective-nifi-flow-partitionrecord-b342a8efc50c
+https://medium.com/cloudera-inc/building-an-effective-nifi-flow-queryrecord-cca5ba51afd5
+https://medium.com/cloudera-inc/building-an-effective-nifi-flow-b5aa1b816380
+https://www.youtube.com/channel/UCcNsK56MZRXzPbRfe8sODWw
+
 
 ## Oldates
 
